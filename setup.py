@@ -26,6 +26,7 @@ setup(
         "pandas",
         "numpy",
         "matplotlib"
+        "pyreadline3; platform_system == 'Windows'"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
